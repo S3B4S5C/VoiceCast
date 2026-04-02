@@ -1,0 +1,18 @@
+{
+  "Group": "s3b4s5",
+  "Name": "VoiceCast",
+  "Version": "2.1.0",
+  "Description": "VoiceCast is a bridge that links voice commands to Hytale RootInteractions, enabling modders to build voice-activated casting and interaction flows.",
+  "Authors": [
+    {
+      "Name": "s3b4s5"
+    }
+  ],
+  "Website": "https://www.curseforge.com/hytale/mods/voice-cast",
+  "ServerVersion": "2026.03.26-89796e57b",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "me.s3b4s5.voicecast.VoiceCast",
+  "IncludesAssetPack": true
+}

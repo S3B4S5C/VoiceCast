@@ -1,0 +1,20 @@
+{
+  "RootInteraction": {
+    "Interactions": [
+      "VoiceCastTest"
+    ],
+    "Cooldown": {
+      "Cooldown": 2
+    }
+  },
+  "Languages": [
+    {
+      "Type": "Language",
+      "Values": [
+        "test",
+        "tests",
+        "Test"
+      ]
+    }
+  ]
+}
